@@ -13,3 +13,11 @@ this is myself notes for learning
 10月3
 6月19
 5月29
+
+NODE.JS知乎：https://www.zhihu.com/question/19793473
+
+node.js:github开源教程：https://github.com/alsotang/node-lessons
+
+腾讯内推： https://cnodejs.org/topic/58351689bde2b59e06141e9f
+
+阿里B2B前端的 七天学会nodeJS： http://nqdeng.github.io/7-days-nodejs/
