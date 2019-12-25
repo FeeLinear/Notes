@@ -1,5 +1,8 @@
 # notes-project
+
 this is myself notes for learning
+
+一名优秀的程序员。他们只是用眼睛看着代码，然后闭上眼，脑海里浮现出其中信息的流动，所以他们经常一动手就能改到正确的地方（http://www.yinwang.org/blog-cn/2013/04/07/test-driven-dev）。
 
 我十八岁就出来挣钱，从一无所有，发展到身无分文，再从身无分文拼搏到负债累累，这就是我，不一样的烟火，我就是我，我看到自己都冒火。
 
